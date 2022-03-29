@@ -1,5 +1,5 @@
 #include <iostream>
-#include "dep/Python3.1/include/Python.h"
+#include <Python.h>
 
 #include <conio.h>
 
